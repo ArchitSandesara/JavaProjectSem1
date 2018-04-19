@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="40dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="About Us"
+        android:textSize="25sp"
+        android:textAlignment="center"
+        android:paddingTop="30dp"
+        android:paddingBottom="20dp"
+        android:textColor="@color/black"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="\tLambton college recently celebrated 50 years as a leader in post-secondary education.\n\n\t For the past five decodes. we've worked in partnership with the Sarnia-Lambton community to create  region of innovators, strengthening our local economy and working together to meet industry demand for skilled employees.\n\n\tThis continued dupport from our greater community has allowed Lambon College to grow to become the #1 Applied Research College in Ontario and third in Canada.\n\n\tProject developed by Cloud computing for Big Data students Archit Sandesara and Mosam Patel.\n\nSubmitted to: Simrandeep Kaur\n\n\n"
+        android:scrollbars="vertical"
+        />
+
+</LinearLayout>

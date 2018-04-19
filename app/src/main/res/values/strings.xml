@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JavaProjectSem1</string>
+    <string name="title_activity_take_attendance">TakeAttendance</string>
+</resources>
